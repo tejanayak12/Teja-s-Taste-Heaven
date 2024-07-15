@@ -6,7 +6,7 @@ const Header = () => {
         <div className='header'>
             <div className="header-contents">
                 <h2>Order Your Favourite Food Here.</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis numquam vero ullam deserunt, odio, corrupti aliquam cum consequatur aspernatur autem voluptate dolores veniam repudiandae aut suscipit tempore quae nemo sequi.</p>
+                <p>Welcome to Teja's Tatse Heaven, your ultimate destination for culinary delights! Our passion for food drives us to bring you the finest selection of recipes, cooking tips, and food inspiration from around the world. Whether you're a seasoned chef or just starting your culinary journey,Explore our diverse range of mouth-watering dishes, from classic comfort foods to exotic flavors, all curated to help you create memorable meals. Join our community of food enthusiasts and discover the joy of cooking with Teja's Tatse Heaven!</p>
                 <button>View Menu</button>
             </div>
         </div>
